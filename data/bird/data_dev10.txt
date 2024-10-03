@@ -1,0 +1,11 @@
+pair	term1	term2	term2: unigram or bigram	source	relation	relatedness score	pos
+(world class, class world)	world class	class world	bigram	Wikipedia_transposed	None	0.420	n-n
+(world class, premier)	world class	premier	unigram	PhraseTable_co-aligned	None	0.364	n-n
+(world class, primary)	world class	primary	unigram	PhraseTable_co-aligned	None	0.276	n-n
+(world class, major)	world class	major	unigram	PhraseTable_co-aligned	None	0.196	n-n
+(world cup, championship)	world cup	championship	unigram	PhraseTable_co-aligned	None	0.812	n-n
+(world cup, event)	world cup	event	unigram	PhraseTable_co-aligned	None	0.652	n-n
+(world cup, tournament)	world cup	tournament	unigram	WordNet_is-a	hypernym	0.606	n-n
+(world cup, cup world)	world cup	cup world	bigram	Wikipedia_transposed	None	0.509	n-n
+(world cup, germany)	world cup	germany	unigram	PhraseTable_co-aligned	None	0.427	n-n
+(world cup, canoe)	world cup	canoe	unigram	PhraseTable_co-aligned	None	0.178	n-n
