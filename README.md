@@ -1,6 +1,6 @@
 # [EMNLP2024]Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models
 
-This is the official repository for the EMNLP 2024 paper [Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models]([https://arxiv.org/abs/2109.06304](https://openreview.net/forum?id=5loBBDD3c3#discussion)). This repo is built based on [Phrase-BERT](https://github.com/sf-wa-326/phrase-bert-topic-model) and [PiC](https://github.com/Phrase-in-Context/eval).
+This is the official repository for the EMNLP 2024 Findings paper [Traffic Light or Light Traffic? Investigating Phrasal Semantics in Large Language Models](https://arxiv.org/abs/2410.02308). This repo is built based on [Phrase-BERT](https://github.com/sf-wa-326/phrase-bert-topic-model) and [PiC](https://github.com/Phrase-in-Context/eval).
 
 
 Full results can be seen in this [Google Sheet](https://docs.google.com/spreadsheets/d/1LIog3UmaOw2sFsDQzgHdYfmX8Bqohy7mrriu87a-PPI/edit?usp=sharing).
